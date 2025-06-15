@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags 在 MtF.Report</title>
+    <link>https://mtf.report/zh-cn/tags/</link>
+    <description>近期文章 在 Tags 在 MtF.Report</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+      <atom:link href="https://mtf.report/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

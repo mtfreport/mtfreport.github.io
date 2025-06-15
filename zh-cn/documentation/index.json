@@ -1,0 +1,18 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Documentation 在 MtF.Report",
+    "description": "近期文章 在 Documentation 在 MtF.Report",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/zh-cn/documentation/index.json",
+    "language": "zh-CN",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "MtF.Report"
+        }
+    ],
+    "items": [
+        ]
+}
