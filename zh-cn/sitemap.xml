@@ -26,6 +26,8 @@
                 href="https://mtf.report/zh-cn/contact/"
                 />
   </url><url>
+    <loc>https://mtf.report/zh-cn/documentation/</loc>
+  </url><url>
     <loc>https://mtf.report/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
@@ -61,6 +63,8 @@
                 hreflang="zh-CN"
                 href="https://mtf.report/zh-cn/tags/"
                 />
+  </url><url>
+    <loc>https://mtf.report/zh-cn/documentation/example/</loc>
   </url><url>
     <loc>https://mtf.report/zh-cn/about/</loc>
     <xhtml:link
